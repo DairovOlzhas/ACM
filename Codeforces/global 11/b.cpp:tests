@@ -1,0 +1,29 @@
+[
+	{
+		"test": "1\n5 2\nWLWLL\n"
+	},
+	{
+		"test": "8\n5 2\nWLWLL\n6 5\nLLLWWL\n7 1\nLWLWLWL\n15 5\nWWWLLLWWWLLLWWW\n40 7\nLLWLWLWWWLWLLWLWWWLWLLWLLWLLLLWLLWWWLWWL\n1 0\nL\n1 1\nL\n6 1\nWLLWLW\n"
+	},
+	{
+		"test": "1\n5 0\nWWWWW \n"
+	},
+	{
+		"test": "1\n1 1\nL\n"
+	},
+	{
+		"test": "1\n1 0\nL\n"
+	},
+	{
+		"test": "1\n3 0\nWLW\n"
+	},
+	{
+		"test": "1\n3 1\nWLW\n"
+	},
+	{
+		"test": "1\n12 2\nLWWLLWWWLLWL\n"
+	},
+	{
+		"test": ""
+	}
+]

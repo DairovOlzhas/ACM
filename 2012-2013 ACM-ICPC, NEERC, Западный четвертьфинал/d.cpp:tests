@@ -1,0 +1,20 @@
+[
+	{
+		"test": "4\nabxcaba\nabax\nabay\nabaz\n"
+	},
+	{
+		"test": "4\na\na\na\na\n"
+	},
+	{
+		"test": "4\naba\naba\nbab\naba\n"
+	},
+	{
+		"test": "2\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n"
+	},
+	{
+		"test": "1\na\n"
+	},
+	{
+		"test": "3\na\nb\nc\n"
+	}
+]
